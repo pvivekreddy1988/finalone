@@ -1,0 +1,8 @@
+organization=batch-org
+projectKey=dvsbatch
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.33295
+branch=master
+dashboardUrl=https://sonarcloud.io/dashboard?id=dvsbatch&branch=master
+ceTaskId=AYPQBQPi7e6-CFeMurbG
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYPQBQPi7e6-CFeMurbG
